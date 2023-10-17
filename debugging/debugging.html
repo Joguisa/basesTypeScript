@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debugging</title>
+</head>
+
+<body>
+    <h3>¿Qué es el archivo tsconfig y para qué sirve?</h3>
+    <p>
+        tsconfig.json es un archivo de configuración en TypeScript que se utiliza para especificar opciones y
+        configuraciones para el compilador de TypeScript (tsc). Este archivo permite definir cómo se deben compilar los
+        archivos TypeScript en un proyecto.
+    </p>
+
+    <h3>¿Es posible la depuración del código en TypeScript?</h3>
+    <p>
+        En este caso se ha descomentado la linea sourceMap en el tsconfig y se crea un archivo js.map
+    </p>
+
+    <h3>Remover los comentarios de los archivos de JS</h3>
+    <p>
+        Se quitan cuando se descomenta removeComents en el tsConfig
+    </p>
+
+    <h3>Incluir y Excluir Carpetas y/o Archivos</h3>
+    <p>
+        En el tsconfig se agrega <br>
+        "excluse": [ <br>
+        "carpeta/archivo.extension"<br>
+        ] <br>
+
+        Para incluir: <br>
+        En el tsconfig se agrega <br>
+        "include": [ <br>
+        "carpeta/archivo.extension"<br>
+        ] <br>
+    </p>
+
+    <h3>OutFile</h3>
+    <p>
+        outFile es una opción de configuración en TypeScript que te permite especificar un único archivo de salida en
+        lugar de generar múltiples archivos JavaScript separados después de la compilación. Es decir, puedes generar un
+        único archivo JavaScript concatenando todos los archivos TypeScript en uno solo.
+    </p>
+    <p>
+        
+    </p>
+
+</body>
+
+</html>

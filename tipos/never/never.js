@@ -8,3 +8,4 @@
     };
     error('Error critico... linea 25');
 })();
+//# sourceMappingURL=never.js.map

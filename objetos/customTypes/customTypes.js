@@ -22,3 +22,4 @@
     };
     console.log(batman);
 })();
+//# sourceMappingURL=customTypes.js.map

@@ -23,3 +23,4 @@
     };
     console.log(batman);
 })();
+//# sourceMappingURL=objects.js.map
