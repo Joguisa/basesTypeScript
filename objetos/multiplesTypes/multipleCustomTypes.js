@@ -14,4 +14,3 @@
     console.log(myCustomVariable);
     console.log(typeof myCustomVariable);
 })();
-//# sourceMappingURL=multipleCustomTypes.js.map

@@ -14,4 +14,3 @@
     myFunction = saveWorld();
     console.log(myFunction);
 })();
-//# sourceMappingURL=function-type.js.map

@@ -46,4 +46,3 @@ mystique = charles;
 console.log('M-C', mystique);
 mystique = apocalipsis;
 console.log('M-A', mystique);
-//# sourceMappingURL=tarea.js.map

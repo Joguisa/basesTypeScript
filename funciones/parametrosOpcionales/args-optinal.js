@@ -8,4 +8,3 @@
     const name = fullName('Tony');
     console.log({ name });
 })();
-//# sourceMappingURL=args-optinal.js.map
